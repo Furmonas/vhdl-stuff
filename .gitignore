@@ -9,3 +9,4 @@ simulation/*
 *.rpt
 *.cmp
 *.qws
+*.sdc
